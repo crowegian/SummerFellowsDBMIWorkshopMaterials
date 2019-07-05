@@ -2,7 +2,7 @@
 Materials for the DBMI Summer Research Fellowship programming workshop
 
 
-We'll be going over three lessons drawn from the Software Carpentry group.
+We'll be going over three lessons drawn from the [Software Carpentry group](https://software-carpentry.org/lessons/index.html) so thank you to the authors and community for creating such amazing lessons.
 1. [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
     1. Running Jupyter Notebook and Python
     2. [Variables and Assignment](http://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
